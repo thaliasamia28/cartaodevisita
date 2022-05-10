@@ -1,0 +1,43 @@
+body {
+    font-size: 14pt;
+    color: #FFFFFF;
+}
+.cartao{
+  max-width: 400px;
+  width: 400px;
+  margin: 50px auto;
+  background-color: #0020F3;
+}
+.cartao-img{
+  width: 200px;
+  margin: 0 auto;
+}
+.imagem{
+  width: 100%;
+  border-radius: 100%;
+  
+} 
+.nome{
+  margin-bottom: 0;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+.Contato{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+.Gmail{
+  text-align: center;
+}
+.github{
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+.foco{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
